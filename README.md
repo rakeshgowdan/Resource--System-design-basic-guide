@@ -37,7 +37,9 @@ Full-text search enables users to search for specific words or phrases within an
 
 Ref:
 ✅System Design Survival Guide (2023): https://lnkd.in/deqz6gnz
+
 ✅Take a look at 𝗚𝗿𝗼𝗸𝗸𝗶𝗻𝗴 𝘁𝗵𝗲 𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 for #systemdesign #interview questions - https://lnkd.in/g4Wii9r7
+
 ✅For software architecture, take a look at 𝗚𝗿𝗼𝗸𝗸𝗶𝗻𝗴 𝘁𝗵𝗲 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 - https://lnkd.in/dyCRtiec
 --------------------------------------------------------------------------------------------------------------------------------
 ## 𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻 𝗕𝗮𝘀𝗶𝗰𝘀: 𝗪𝗵𝘆 𝗖𝗗𝗡?
